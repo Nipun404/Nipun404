@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nipun</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun404&label=Profile%20views&color=0e75b6&style=flat" alt="nipun404" /> </p>
 
 - 🌱 I’m currently learning **Flask**
 
-- 👨‍💻 All of my projects are available at [nipunk.netlify.app](nipunk.netlify.app)
+- 👨‍💻 All of my projects are available at [nipunk.netlify.app](https://nipunk.netlify.app)
 
 - 📫 How to reach me **khajurianipun2@gmail.com**
 
-- ⚡ Fun fact **def i_know_python(): return True # No need to check, I just know it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
